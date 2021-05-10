@@ -1,4 +1,5 @@
-#  
+#2021.3.1-3.30 : We discussed the functional requirements in this project and desided to use semi-supervised random forests. Then I started to working on my proposal. During this period, I also read some papers that wrote in the references.
+
 #2021.3.30: This project initially updated to Github
 
 #2021.3.31: We discussed the implementing processes of decision-trees and made the goal of next week which is to read the paper 'Semi-supervised random forest' and ,if time is enough, implement my own implemented decision tree.
